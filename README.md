@@ -6,7 +6,7 @@
 ## Introduction
 - 현재 AED는 공공기관과 지하철에 밀집되어 퇴근시간 대 이후 대부분 사용 불가함
 - 이에 동대문구를 기준으로 대부분의 지역에서 24시 내내 AED를 사용할 수 있게 실외 스마트 AED를 설치하고자 함
-<img src="https://user-images.githubusercontent.com/37128004/208828859-b538da7c-917f-47bf-9010-9b21bbd881b0.png" width="1000" height="400"/>
+<img src="https://user-images.githubusercontent.com/37128004/208828859-b538da7c-917f-47bf-9010-9b21bbd881b0.png" width="1000" height="300"/>
 
 ## Preprocess & Model 
 ### 0. polygon data
