@@ -25,7 +25,7 @@ df_dobo_100['buffer_100_coordinates'] = df_dobo_100['buffer_100'].apply(polygon_
 
 ### 1. MCLP(Maximal Covering Location Problem)
  시설물의 개수 혹은 예산 비용이 제한되었을 때, 시설물의 서비스 수준을 높이기 위하여 주어진 제약조건 하에서 시설물이 커버하는 수요량을 최대화하는 위치를 선정하는 방법
-<img src="https://user-images.githubusercontent.com/37128004/208839441-20a30452-e356-4a55-81d2-f2f943d62a04.png" width="1000" height="350"/>
+<img src="https://user-images.githubusercontent.com/37128004/208853267-cf163c89-1608-4ca8-970a-46205b7b97c4.png" width="1000" height="350"/>
 
 ### 2. 모델 가정 
 1. 수요지와 후보지는 동일
