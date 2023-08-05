@@ -1,16 +1,5 @@
-import pandas as pd
-import time
 import base64
 import re
-import pickle
-import matplotlib.pyplot as plt
-plt.rc('font', family='NanumBarunGothic')
-from datetime import datetime
-import geopandas as gpd
-import pydeck as pdk
-from shapely import wkt
-from tqdm import tqdm
-from mip import *
 
 def multipolygon_to_coordinates(x): 
     lon, lat = x[0].exterior.xy 
