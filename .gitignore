@@ -1,1 +1,10 @@
 .venv
+__init__.*
+util.*
+
+# 데이터
+서울시 자치구별 도보 네트워크 공간정보.csv
+aed_24_*
+df_dobo_*
+cond*
+total.csv
