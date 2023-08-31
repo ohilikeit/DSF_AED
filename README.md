@@ -2,6 +2,7 @@
 - 주제 : **24시 응급체계를 위한 실외 AED 최적 위치 선정**
 - 기간 : **2022.11. ~ 2022.12**
 - 최종 순위 : **1 st (50 teams)**
+- 관련 글 : [블로그](https://velog.io/@ohilikeit/series/DataScienceFestival)
 
 ## 변경 사항
 - 2023.08.05 : 코드 refactoring
